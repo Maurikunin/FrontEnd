@@ -1,0 +1,57 @@
+
+header{
+    
+    background-color: #e6e6e6; 
+    
+    text-align: center;
+    
+  
+}
+
+main h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-bottom: 50px;
+    background-color: #C4C4C4; 
+    color: #005677;
+    text-align: center;
+
+}
+
+section h2 {
+
+    color: #005677 ;
+    letter-spacing: 5px;
+    background-color: #C4C4C4 ;
+}
+
+main section ul li span{
+
+    font-weight: bold;
+    font-style: italic;
+}
+
+.formacionAcademica {
+
+    list-style: none;
+}
+
+footer nav  {
+
+    background-color: #005677;
+    text-align: center;
+    
+}
+
+footer li {
+    
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: white;
+  display: inline;
+  margin-left: 15px;
+
+}
+
+
